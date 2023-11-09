@@ -1,0 +1,9 @@
+<div style="margin: 10px;">
+  <button ejs-button (click)="onBtnClk()">Delete All Comments</button>
+  <button ejs-button (click)="nextComment()">Next</button>
+  <button ejs-button (click)="previousComment()">Previous</button>
+  <button ejs-button (click)="protection()">Comments Only</button>
+  <button ejs-button (click)="removeProtection()">Stop Protection</button>
+  <ejs-documenteditorcontainer #documentEditor height="590" [showPropertiesPane]=false
+  serviceUrl="https://ej2services.syncfusion.com/production/web-services/api/documenteditor/"></ejs-documenteditorcontainer>
+</div>
