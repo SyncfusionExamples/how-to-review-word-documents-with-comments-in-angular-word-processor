@@ -1,11 +1,11 @@
 # How to Review Word Documents with Comments in the Angular Word Processor
 
-A quick-start Angular project that shows how to review Word documents with comments in the Syncfusion Angular Word Processor component. This project contains code to insert and delete comments, navigate to the next and previous comments, and protect the document in comments-only mode.
+A quick-start Angular project that shows how to review Word documents with comments in the Syncfusion&reg; Angular Word Processor component. This project contains code to insert and delete comments, navigate to the next and previous comments, and protect the document in comments-only mode.
 
-Refer to the following documentation on comments in the Syncfusion Angular Word Processor component: 
+Refer to the following documentation on comments in the Syncfusion&reg; Angular Word Processor component: 
 https://ej2.syncfusion.com/angular/documentation/document-editor/comments 
 
-Check out this online demo of comments in the Syncfusion Angular Word Processor component:
+Check out this online demo of comments in the Syncfusion&reg; Angular Word Processor component:
 https://ej2.syncfusion.com/angular/demos/#/material3/document-editor/comments 
 
 Watch the following video to get started with the Angular Word Processor component:
